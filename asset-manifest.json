@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mrxmath/react-todolist/static/css/main.65a25ba5.chunk.css",
+    "main.js": "/mrxmath/react-todolist/static/js/main.40a19510.chunk.js",
+    "main.js.map": "/mrxmath/react-todolist/static/js/main.40a19510.chunk.js.map",
+    "runtime~main.js": "/mrxmath/react-todolist/static/js/runtime~main.edaad976.js",
+    "runtime~main.js.map": "/mrxmath/react-todolist/static/js/runtime~main.edaad976.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/mrxmath/react-todolist/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/mrxmath/react-todolist/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/mrxmath/react-todolist/index.html",
+    "precache-manifest.4be012502c7d719e4897486a7780c7af.js": "/mrxmath/react-todolist/precache-manifest.4be012502c7d719e4897486a7780c7af.js",
+    "service-worker.js": "/mrxmath/react-todolist/service-worker.js",
+    "static/css/main.65a25ba5.chunk.css.map": "/mrxmath/react-todolist/static/css/main.65a25ba5.chunk.css.map"
+  }
+}
