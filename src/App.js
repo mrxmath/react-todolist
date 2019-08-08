@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="TodoApp">
       <h1 className="TodoApp__title">TODO LIST</h1>
-      <input />
+      <input className="TodoApp__input" placeholder="add a new todo..." />
       <List />
     </div>
   );

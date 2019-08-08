@@ -52,7 +52,7 @@ class List extends Component {
     const items = this.state.items.map(item => (
       <ListItem key="{item.id}" item={item} checkItem={this.checkItem} />
     ));
-    return <ul>{items}</ul>;
+    return <ul className="TodoApp__list">{items}</ul>;
   }
 }
 
