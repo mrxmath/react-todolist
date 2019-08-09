@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mrxmath/react-todolist/static/css/main.c991ee99.chunk.css",
-    "main.js": "/mrxmath/react-todolist/static/js/main.85ee2d00.chunk.js",
-    "main.js.map": "/mrxmath/react-todolist/static/js/main.85ee2d00.chunk.js.map",
-    "runtime~main.js": "/mrxmath/react-todolist/static/js/runtime~main.edaad976.js",
-    "runtime~main.js.map": "/mrxmath/react-todolist/static/js/runtime~main.edaad976.js.map",
-    "static/js/2.123fe850.chunk.js": "/mrxmath/react-todolist/static/js/2.123fe850.chunk.js",
-    "static/js/2.123fe850.chunk.js.map": "/mrxmath/react-todolist/static/js/2.123fe850.chunk.js.map",
-    "index.html": "/mrxmath/react-todolist/index.html",
-    "precache-manifest.29be5c37fd060dccd1bc6f6de6337a15.js": "/mrxmath/react-todolist/precache-manifest.29be5c37fd060dccd1bc6f6de6337a15.js",
-    "service-worker.js": "/mrxmath/react-todolist/service-worker.js",
-    "static/css/main.c991ee99.chunk.css.map": "/mrxmath/react-todolist/static/css/main.c991ee99.chunk.css.map"
+    "main.css": "/react-todolist/static/css/main.c991ee99.chunk.css",
+    "main.js": "/react-todolist/static/js/main.8269dc89.chunk.js",
+    "main.js.map": "/react-todolist/static/js/main.8269dc89.chunk.js.map",
+    "runtime~main.js": "/react-todolist/static/js/runtime~main.8b2e420c.js",
+    "runtime~main.js.map": "/react-todolist/static/js/runtime~main.8b2e420c.js.map",
+    "static/js/2.123fe850.chunk.js": "/react-todolist/static/js/2.123fe850.chunk.js",
+    "static/js/2.123fe850.chunk.js.map": "/react-todolist/static/js/2.123fe850.chunk.js.map",
+    "index.html": "/react-todolist/index.html",
+    "precache-manifest.d504ea0c05992d88820c3c76c1249df2.js": "/react-todolist/precache-manifest.d504ea0c05992d88820c3c76c1249df2.js",
+    "service-worker.js": "/react-todolist/service-worker.js",
+    "static/css/main.c991ee99.chunk.css.map": "/react-todolist/static/css/main.c991ee99.chunk.css.map"
   }
 }
